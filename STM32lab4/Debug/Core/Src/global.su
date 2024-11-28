@@ -1,0 +1,5 @@
+global.c:9:6:LEDREDBINKY	8	static
+global.c:12:6:LEDGREENBINKY	8	static
+global.c:15:6:LEDYELLOWBINKY	8	static
+global.c:18:6:LEDBLUEBINKY	8	static
+global.c:22:6:LEDPURPLEBINKY	8	static
